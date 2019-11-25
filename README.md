@@ -6,4 +6,6 @@
 
 ## [How to use Apple CarPlay?](https://xuniong123-jinchao.github.io/EDCI-337-Project4/use.html)
 
+## [Compare to Android Auto App](https://xuniong123-jinchao.github.io/EDCI-337-Project4/compare.html)
+
 ## [References](https://xuniong123-jinchao.github.io/EDCI-337-Project4/sources.html)
