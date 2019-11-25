@@ -1,7 +1,7 @@
 ## Which one is Apple CarPlay?
 
-A. [![Android Auto](image/andriodauto.jpg)](https://xuniong123-jinchao.github.io/EDCI-337-Project4/wrong1.html)
+A. ![Android Auto](image/andriodauto.jpg)
 
-B. ![Mirrow Link](image/mirrorlink.jpg)
+B. ![Mirrow Link](image/mirrowlink.jpg)
 
 C. ![CarPlay](image/carplay.jpg)
