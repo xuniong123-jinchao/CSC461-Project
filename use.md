@@ -1,4 +1,4 @@
-## How to use CarPlay
+## How to use CarPlay?
 
 ### Customize the Carplay Screen
 
@@ -23,4 +23,4 @@ Carplay have the ability to use Siri hands-free when driving, and can be done in
 
 Siri voice control can be used for navigation, read/send text and browse for music. Siri can also help users make calls on the go without distracting users from the road. Simply say “Call someone/name” or “return my last call” and Siri will handle the rest. In fact, users can even get it to play back recent voicemails if users ask it to. Meanwhile, these options are also available via the CarPlay dashboard in the Phone app, but it’s not recommended that users interact with the touchscreen while driving.[4]
 
-###[Home Page](https://xuniong123-jinchao.github.io/EDCI-337-Project4/)
+[Home Page](https://xuniong123-jinchao.github.io/EDCI-337-Project4/)
