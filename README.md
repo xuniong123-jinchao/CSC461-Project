@@ -8,4 +8,6 @@
 
 ## [Compare to Android Auto App](https://xuniong123-jinchao.github.io/EDCI-337-Project4/Compare.html)
 
+## [Quiz](https://xuniong123-jinchao.github.io/EDCI-337-Project4/quiz1.html)
+
 ## [References](https://xuniong123-jinchao.github.io/EDCI-337-Project4/sources.html)
