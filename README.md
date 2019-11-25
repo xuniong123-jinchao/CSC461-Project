@@ -4,4 +4,4 @@
 
 ## [What is Apple CarPlay?](https://xuniong123-jinchao.github.io/EDCI-337-Project4/introduction.html)
 
-## How to use Apple CarPlay?
+## [How to use Apple CarPlay?](https://xuniong123-jinchao.github.io/EDCI-337-Project4/use.html)
