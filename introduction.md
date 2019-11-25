@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 ---
 title:
 - EDCI 377 Project 4
