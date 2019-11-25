@@ -15,6 +15,7 @@ You can also hide an app by tapping the minus sign on the icon. This moves it to
 
 Carplay also allow users to add third-party Apps from App Store, such as WhatsApp, Spotify, BBC Sounds, Amazon Music, Google Play Music, iPlayer Radio, CBS Radio, Pandora and Waze. Users can customize the layout of the homescreen by themselves or tap the 'General' to automaticlly generate the screen.
 
+![Interface](image/carplay4-5a6fb150c5542e0036e3a3cf.png)
 
 ### Voice control using Siri
 
